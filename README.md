@@ -9,7 +9,7 @@ Grid-based weekly planner with heatmap overdue tracking (Flask/Python).
 Taggable notes wall with auto-category filtering (Spotify/YouTube/code detection), date search, and one-click clipboard copy.
 
 #### :shopping_cart: Bazar
-Family shopping list with communicator in order to discuss align on particular list items
+Family shopping list with communicator in order to discuss and align on particular list items
 
 #### 🚀 Let's Connect!
 Like what I'm building? Got Flask/Python, Dagster, or data pipeline projects?  
