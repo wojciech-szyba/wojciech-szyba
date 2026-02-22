@@ -5,7 +5,7 @@
 #### 🗓️ Siedmiodniowe (Weekly Goals Organizer)
 Grid-based weekly planner with heatmap overdue tracking (Flask/Python).
 
-#### :clipboard: Prywatna Tablica
+#### :clipboard: Prywatna Tablica / StashWall
 Taggable notes wall with auto-category filtering (Spotify/YouTube/code detection), date search, and one-click clipboard copy.
 
 #### :shopping_cart: Bazar
